@@ -121,3 +121,7 @@ footer{
 .wa3:hover{
     background: #2563eb;
 }
+
+.active{
+    background: #2563eb;
+}

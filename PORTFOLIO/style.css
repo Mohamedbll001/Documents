@@ -115,7 +115,108 @@ body{
     border-radius: 5px;
 }
 
+.projects h2{
+    font-size: 30px;
+    color:white;
+}
 
+.project-card p{
+    font-size: 20px;
+    color:white;
+}
+
+.project-card h3{
+    font-size: 25px;
+    color: white;
+}
+
+.about h2{
+    font-size: 30px;
+    color:rgb(212, 148, 148);
+}
+
+.about p{
+    font-size: 20px;
+    color:white;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, 
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+     rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+      rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, 
+      rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+       rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.skills h2{
+    font-size: 30px;
+    color:rgb(212, 148, 148);
+}
+
+.skills ul{
+    font-size: 20px;
+    color:white;
+    margin: 10px 0;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, 
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+     rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+      rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, 
+      rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+       rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.resume h2{
+    font-size: 30px;
+    color:rgb(212, 148, 148);
+}
+
+.resume p{
+    font-size: 20px;
+    color:white;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, 
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+     rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+      rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, 
+      rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+       rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.resume a{
+    color: #2563eb;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.contact h2{
+    font-size: 30px;
+    color:rgb(212, 148, 148);
+}
+
+.contact p{
+    font-size: 20px;
+    color:white;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, 
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+     rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+      rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, 
+      rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+       rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.contact button{
+    color: #000000;
+    text-decoration: none;
+    margin: 10px;
+}
 
 footer{
     padding: 50px;

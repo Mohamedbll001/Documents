@@ -34,5 +34,3 @@ if(pose !== -1){
     console.log("meow meow")
 }
 
-
-

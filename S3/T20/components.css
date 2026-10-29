@@ -1,8 +1,8 @@
 .carte-article {
-    width: 300px;
+    width: 400px;
     background: #f9fafb;
-    border: 2px solid #e5e7eb;
+    border: 9px solid #e5e7eb;
 }
 .carte-contenu {
-    padding: 30px;
+    padding: 50px;
 }

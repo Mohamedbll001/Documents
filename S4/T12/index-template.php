@@ -21,18 +21,19 @@
         </figure>
         <?php foreach ($articles as $article): ?>
         <blockquote class="article-blockquote">
-            <span class="categorie">coding</span>
-            <h1>programing kitty</h1>
+            <span class="categorie"><?= $article ['categorie_libelle']?></span>
+            <h1><?= $article ['title']?></h1>
             <div class="article-contenu">
-                <img src="img/drooling cat.jpg" alt="">
+                <img src="img/<?= $article ['image']?>" alt="">
                 <div class="article-blockquote-quote">
                     <p>
-                        A good programmer drinks coffee. A great programmer is a cat.
+                        <?= $article ['contenu']?>
                     </p>
-                    <cite>— Cat Academy</cite>
+                    <cite><?= $article ['cite']?></cite>
                 </div>
             </div>
         </blockquote>
+        <?php endforeach;?>
         <ul class="article-list">
             <li><strong>Wake up at 3 AM</strong> to write new code.</li>
             <li><strong>Debug programs</strong> by walking across the keyboard.</li>

@@ -74,7 +74,7 @@
                 </div>
                 <a href="public-categorie.html" class="lien-voir-tout">Explorer tout</a>
             </div>
-
+            
             <!-- CARTES D'ARTICLES -->
             <div class="grille-articles">
                 <?php foreach ($articles as $article): ?>
